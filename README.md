@@ -1,0 +1,1 @@
+This repository demonstrates a bug in Next.js 15's App Router where a simple functional component in the `pages` directory throws an error.  The error occurs even with the most basic component, indicating a potential issue with the App Router's handling of traditional pages.
